@@ -1,4 +1,4 @@
-# Face_detection
+# Face_detection (Using haar-cascade)
 Face detection, Pupil detect
 
 # Using webcam to save picture
